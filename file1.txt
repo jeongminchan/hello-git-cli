@@ -1,5 +1,2 @@
-첫번쨰 커밋
-asdf
-
 hello git
 second
